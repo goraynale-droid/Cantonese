@@ -1,0 +1,7 @@
+{
+  "name": "粤语学堂 (Cantonese Master)",
+  "description": "A comprehensive Cantonese learning application featuring standard pronunciation, Jyutping annotations, and real-time AI conversation powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
